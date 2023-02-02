@@ -17,7 +17,4 @@ public class ujian1 {
     }
         public static double inchToMeters(double inch) { return 0.0254 * inch; }
         public static double meterToInch(double meters) { return 39.3701 * meters; }
-
-
-
 }

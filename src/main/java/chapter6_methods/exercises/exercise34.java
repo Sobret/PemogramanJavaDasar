@@ -64,11 +64,10 @@ public class exercise34 {
     }
 
     public static void printCalendarItself(int month, int year) {
-        // find out the last day of that month
-        // whether it's 28/29/30/31 days
+
         int lastDayOfMonth = lastDayOfMonth(month, year);
 
-        // print the calendar itself
+
         for (int i = 2; i <= lastDayOfMonth; i++) {
             int printedDay = dayOfWeek(i, month, year);
             if (printedDay == 1) {
@@ -78,7 +77,6 @@ public class exercise34 {
         }
     }
 
-    //Implement Zeller's Algorithm
     public static int dayOfWeek(int dayOfMonth, int month, int year) {
         if (month == 1 || month == 2) {
             month = month + 12;
@@ -86,10 +84,10 @@ public class exercise34 {
         }
         int q, m, j, k;
         q = dayOfMonth;
-        m = month;			//adjusted month (corrected for January & February being 13 & 14 respectively)
-        j = year/100;		//century
-        k = year%100;		//year of the century
-        int dayOfTheWeek = (q + (26*(m+1) /10) + k + k/4 + j/4 + (5*j)) % 7;		//performs integer division where appropriate (like the Algorithms wants)
+        m = month;
+        j = year/100;
+        k = year%100;
+        int dayOfTheWeek = (q + (26*(m+1) /10) + k + k/4 + j/4 + (5*j)) % 7;
         return dayOfTheWeek;
     }
 
