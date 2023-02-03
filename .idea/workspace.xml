@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb78d57d-cedc-4540-8d2c-cd3c0a199949" name="Changes" comment="First Commit">
+    <list default="true" id="bb78d57d-cedc-4540-8d2c-cd3c0a199949" name="Changes" comment="update ujian">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter1_intro/latihan/listing1welcomejava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter1_intro/latihan/listing1welcomejava.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter6_methods/exercises/exercise26palindromicprime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter6_methods/exercises/exercise26palindromicprime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter6_methods/exercises/exercise34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter6_methods/exercises/exercise34.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/chapter6_methods/ujian/ujian2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter6_methods/ujian/ujian2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/chapter6_methods/ujian/ujian4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter6_methods/ujian/ujian4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,20 +35,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/LAB A - 01/IdeaProjects/Pemograman Dasar Abid/src/main/java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/LAB A - 01/IdeaProjects/Pemograman Dasar Abid/src/main/java&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\LAB A - 01\IdeaProjects\Pemograman Dasar Abid\src\main\java" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ujian2">
+  <component name="RunManager" selected="Application.ujian4">
     <configuration name="exercise24displaycurrentateandtime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="chapter6_methods.exercises.exercise24displaycurrentateandtime" />
       <module name="PemogramanDasarAbid" />
@@ -90,6 +88,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ujian4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter6_methods.ujian.ujian4" />
+      <module name="PemogramanDasarAbid" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter6_methods.ujian.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="Pemograman Dasar Abid" />
       <method v="2">
@@ -105,6 +116,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ujian4" />
         <item itemvalue="Application.ujian2" />
         <item itemvalue="Application.exercise24displaycurrentateandtime" />
         <item itemvalue="Application.exercise5sortthreenumbers" />
@@ -127,11 +139,19 @@
       <option name="project" value="LOCAL" />
       <updated>1675324478141</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update ujian">
+      <created>1675343215898</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675343215898</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+    <MESSAGE value="update ujian" />
+    <option name="LAST_COMMIT_MESSAGE" value="update ujian" />
   </component>
 </project>

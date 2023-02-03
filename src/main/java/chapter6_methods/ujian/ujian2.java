@@ -72,23 +72,24 @@ public class ujian2 {
             case 4 -> {
                 System.out.println("Luas P dan Volume kerucut");
                 float phi = 3.14f;
-                float r, tinggi, s, luasP, volume;
+                float  r, tinggi, s,luasP, volume;
 
-                System.out.println("Masukan jari-jari : ");
+                System.out.println("Nilai jari-jari   : ");
                 r = input.nextFloat();
 
-                System.out.println("Masukan tinggi : ");
+                System.out.println("Nilai tinggi   : ");
                 tinggi = input.nextFloat();
 
-                System.out.println("Masukan panjang : ");
+                System.out.println("Masukan s : ");
                 s = input.nextFloat();
 
                 luasP = phi * r * (r + s);
                 System.out.println("Luas permukaan kerucut : " + luasP);
 
-                volume = 1 / (float) 3 * phi * r * r * tinggi;
+                volume = 1 /(float) 3 * phi * r * r * tinggi;
                 System.out.println("Volume kerucut : " + volume);
             }
+
             case 5 -> {
                 System.out.println("Luas P dan Volume prisma segitiga");
                 float luasA, kelilingA, tinggi;
