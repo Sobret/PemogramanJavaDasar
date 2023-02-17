@@ -14,8 +14,8 @@ public class ujian4 {
                  "--------------------------------------------------------------");
         String nama;
         String status;
-        String anak;
-        double jarak = 0;
+        int anak;
+        int jarak = 0;
         int masuk = 0;
         int tahun = 0;
 
@@ -26,16 +26,21 @@ public class ujian4 {
         status = input.nextLine();
 
         System.out.print("Jumlah Anak        : ");
-        anak = input.nextLine();
+        anak = input.nextInt();
 
         System.out.print("Jarak Rmh-Kantor   : ");
-        jarak = input.nextDouble();
+        jarak = input.nextInt();
 
         System.out.print("Jumlah Masuk Kerja : ");
         masuk = input.nextInt();
 
         System.out.print("Tahun masuk        : ");
         tahun = input.nextInt();
+
+        System.out.println("------------------------------------------");
+        System.out.println("Gaji pokok  |  T.Keluarga  | T. Kesehatan ");
+        System.out.println("------------------------------------------");
+
 
 
 
