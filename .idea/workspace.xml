@@ -4,88 +4,282 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb78d57d-cedc-4540-8d2c-cd3c0a199949" name="Changes" comment="update ujian">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise10smallestelement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise12reverseanarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise13randomnumberchooser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise14computinggcd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise15eliminateduplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise16executiontime.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise17sortstudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise18bubblesort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise19sorted.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise1Assigngrades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise20reviceselectionsort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise22eighqueens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise23lockerpuzzle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise24couponcollectorproblem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise26strictlyidenticalarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise27identicalarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise28combinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise29pickfourcards.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise2Reversethenumbersentered.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise30consecutivefourequalnumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise31creditcardnumbervalidation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise33chinesezodiac.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise34sortcharactersinastring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise35hangman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise3countoccurrenceofnumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise4analyzescores.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise5printdistinctnumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise7countsingledigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise8averageanarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/exercises/exercise9findthesmallestelement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/latihan/RandomCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/latihan/listing1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/latihan/listing2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/latihan/listing3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/latihan/listing4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/latihan/listing5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/latihan/listing6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/latihan/listing7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/latihan/listing8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter7_single_dimensi/latihan/listing9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise10largestrowandcolumn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise12computetax.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise13locatethelargestelement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise14explorematrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise15sameline.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise16sorttwodimensionalarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise18shufflerows.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise1sumelementscolumnbycolumn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise22evennumberof1s.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise23findtheflippedcell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise25markovmatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise26rowsorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise27columnsorting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise28strictlyidenticalarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise29identicalarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise2sumtemajordiagonalinamatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise30solvelinearequations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise31intersectingpoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise32areaofatriangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise36latinsquare.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise37guessthecapitals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise3sortstudentsongrades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise4computewiklyhoursforeachemployee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise5addtwomatrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise6multiplytwomatrices.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise7pointsnearesttoeachother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise8allclosestpairsofpoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/exercises/exercise9playatictactoegame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/latihan/listing1passtwodimensionalarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/latihan/listing2gradeexam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/latihan/listing3findnearsetpoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/latihan/listing4checksudokusolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/latihan/listing5weather.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/latihan/listing6guessbirthdayusingarray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/ujian/ujian1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/chapter8_multidimensi/ujian/ulang.java" afterDir="false" />
+    <list default="true" id="bb78d57d-cedc-4540-8d2c-cd3c0a199949" name="Changes" comment="update chapter 7/8">
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/BMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/Circle2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/MyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/MyInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/MyPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/MyRectangle2D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/MyString1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/MyString2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/MyStringBuilder1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/MyStringBuilder2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/StackOfIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/Tax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/Time.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/exercise10thequeueclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/exercise11thecircle2dclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/exercise13themyrectangle2dclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/exercise14themydateclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/exercise15thebundingrectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/exercise16divisible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/exercise17squarenumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/exercise18largeprimenumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/exercise19mersenneprime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/exercise1thetimeclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/exercise20approximatee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/exercise21divisible56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/exercise22implementthestringclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/exercise23Implementthestringclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/exercise26calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/exercise27stringbuilderclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/exercise28thestringbuilderclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/exercise2theBMIclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/exercise3themyintegerclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/exercise4themypointclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/exercise5primefactors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/exercise6primenumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/exercise7atmmachine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/exercise8thetaxclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/exercises/exercise9thecourseclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/latihan/BMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/latihan/StackOfIntegers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/latihan/listing1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/latihan/listing10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/latihan/listing2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/latihan/listing3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/latihan/listing5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/latihan/listing6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/latihan/listing7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/latihan/listing9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/ujian/Hewani.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/ujian/Kurakura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/ujian/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/ujian/hewan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter10_object_oriented/ujian/manusia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/Accountt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/CheckingAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/Faculty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/Loan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/MyDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/SavingsAccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/Staff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/exercise10implementmystackusinginheritance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/exercise11sortarraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/exercise12sumarraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/exercise13removeduplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/exercise14combinetwolists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/exercise16additionquiz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/exercise1thetriangleclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/exercise2personstudentemployefacultysatff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/exercise3subclassesofaccount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/exercise4maximumelementinarraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/exercise5thecourseclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/exercise6usearraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/exercise7shufflearraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/exercise8newaccountclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/exercise/exercise9largestrowsandcolumns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/latihan/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/latihan/GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/latihan/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/latihan/listing10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/latihan/listing4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/latihan/listing5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/latihan/listing6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/latihan/listing7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/latihan/listing8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter11_inheri_polymorphism/latihan/listing9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/BinaryFormatException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/CalculatorWithException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/CalculatorWithhoutException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/CreateFiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/HexFormatException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/IllegalTriangleException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/Loan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/TestBin2Dec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/execise21datasorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise10outofmemoryerror.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise11removetext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise12reformatjavasourcecode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise13countcharactersewordslinesinafile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise14prosessscoresinatextfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise15writereaddata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise16replacetext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise17gamehangmen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise18addpackagestatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise19countwords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise20addpackagestatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise21datasorted.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise22replacetext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise23textfileontheweb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise24createlargedataset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise25processlargedataset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise26createadirectory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise27replacewords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise28renamefiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise29renamfiless.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise2inputmismatchexception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise30occurrencesofeachletter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise31babyname.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise32rankingsummary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise33searchweb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise3arrayindexoutboundsexception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise4IIIlegalargumentexception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise5ilegaltriangleexception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise6_Hex2Dec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise7numberformatexception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise8_Hex22Dec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/exercise/exercise9Hexformatexception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/latihan/CircleWithException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/latihan/InvalidRadiusException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/latihan/listing1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/latihan/listing11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/latihan/listing12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/latihan/listing13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/latihan/listing14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/latihan/listing15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/latihan/listing16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/latihan/listing17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/latihan/listing18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/latihan/listing2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/latihan/listing3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/latihan/listing4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/latihan/listing5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/latihan/listing6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/latihan/listing8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter12_exception_handling_taxt/latihan/listing9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/Colorable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/ComparableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/Complex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/GeometricObjectt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/Octagon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/Rational.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/Triangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/exercise10rectanglecomparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/exercise11theoctagonclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/exercise12sumtheareasgeometricobject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/exercise13courseclasscloneable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/exercise14demonstratebenefits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/exercise15usebiginteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/exercise16numbercalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/exercise17thecomplexclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/exercise18usetherationalclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/exercise19convertdecimaltofractions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/exercise1triangleclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/exercise20solvequadraticequations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/exercise21vertexformequations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/exercise2shufflearraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/exercise3sortarraylist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/exercise4displaycalenders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/exercise5enablegeometricobject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/exercise6comparableclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/exercise7colorableinterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/exercise8revicemystackclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/exercise/exercise9enablecirclecomparable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/latihan/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/latihan/ComparableRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/latihan/GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/latihan/House.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/latihan/LargestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/latihan/Rational.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/latihan/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/latihan/TestEdible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/latihan/listing10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/latihan/listing12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/latihan/listing4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/latihan/listing6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter13_abstractclasses_interfaces/latihan/listing8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter17_binary/exercise/AddressBookPane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter17_binary/exercise/Loan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter17_binary/exercise/exercise10splitfiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter17_binary/exercise/exercise11splitfilesGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter17_binary/exercise/exercise12combinefiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter17_binary/exercise/exercise13combinefilesGUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter17_binary/exercise/exercise14encryptfiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter17_binary/exercise/exercise15decryptfiles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter17_binary/exercise/exercise1createatextfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter17_binary/exercise/exercise2createbinarydatafile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter17_binary/exercise/exercise3sumallintbinarydatafile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter17_binary/exercise/exercise4converttextfileintoUTF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter17_binary/exercise/exercise5storeobjectarrayinfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter17_binary/exercise/exercise6storeloanobjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter17_binary/exercise/exercise7restoreobjectsfromfile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter17_binary/exercise/exercise8updatecount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter17_binary/exercise/exercise9addressbook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter17_binary/latihan/listing1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter17_binary/latihan/listing2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter17_binary/latihan/listing3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter17_binary/latihan/listing4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter17_binary/latihan/listing5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter17_binary/latihan/listing6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter17_binary/latihan/listing7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter17_binary/latihan/listing8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/exercises/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/exercises/Fan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/exercises/LinearEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/exercises/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/exercises/QuadraticEquation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/exercises/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/exercises/RegularPolygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/exercises/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/exercises/Stopwatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/exercises/exercise10quadraticequations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/exercises/exercise11linearequation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/exercises/exercise13intersectingpoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/exercises/exercise1therectangleclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/exercises/exercise2thestockclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/exercises/exercise3usethedateclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/exercises/exercise4usetherandomclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/exercises/exercise5gregoriacalendarclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/exercises/exercise6stopwatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/exercises/exercise7theaccountclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/exercises/exercise8thefanclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/exercises/exercise9polygon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/latihan/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/latihan/listing1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/latihan/listing10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/latihan/listing11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/latihan/listing2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/latihan/listing3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/latihan/listing4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/latihan/listing5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/latihan/listing6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/latihan/listing7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/latihan/listing8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/latihan/listing9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/latihan/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/ujian/car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/ujian/hewano.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/ujian/kasir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/ujian/koki.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/ujian/main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/ujian/manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/ujian/pegawai.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/ujian/pelayan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/chapter9_object_classes/ujian/satpam.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/chapter6_methods/ujian/ujian4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/chapter6_methods/ujian/ujian4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +289,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -120,26 +316,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/LAB A - 01/IdeaProjects/Pemograman Dasar Abid/src/main/java&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/Users/LAB A - 01/IdeaProjects/Pemograman Dasar Abid/src/main/java",
+    "settings.editor.selected.configurable": "reference.settings.ide.settings.new.ui"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="chapter13_abstractclasses_interfaces.exercise" />
+      <recent name="chapter13_abstractclasses_interfaces.latihan" />
+      <recent name="chapter10_object_oriented.latihan" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\LAB A - 01\IdeaProjects\Pemograman Dasar Abid\src\main\java" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="chapter13_abstractclasses_interfaces.latihan" />
+      <recent name="chapter9_object_classes.ujian" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="chapter13_abstractclasses_interfaces.exercise" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.ulang">
-    <configuration name="exercise16sorttwodimensionalarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter8_multidimensi.exercises.exercise16sorttwodimensionalarray" />
+  <component name="RunManager" selected="Application.listing1TestLoanClass">
+    <configuration name="exercise1thetimeclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10_object_oriented.exercises.exercise1thetimeclass" />
       <module name="PemogramanDasarAbid" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter8_multidimensi.exercises.*" />
+          <option name="PATTERN" value="chapter10_object_oriented.exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -147,12 +361,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="fg" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter8_multidimensi.ujian.fg" />
+    <configuration name="exercise2theBMIclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10_object_oriented.exercises.exercise2theBMIclass" />
       <module name="PemogramanDasarAbid" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter8_multidimensi.ujian.*" />
+          <option name="PATTERN" value="chapter10_object_oriented.exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,12 +374,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="hjhj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter8_multidimensi.ujian.hjhj" />
+    <configuration name="exercise3themyintegerclass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10_object_oriented.exercises.exercise3themyintegerclass" />
       <module name="PemogramanDasarAbid" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter8_multidimensi.ujian.*" />
+          <option name="PATTERN" value="chapter10_object_oriented.exercises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,12 +387,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ujian1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter8_multidimensi.ujian.ujian1" />
+    <configuration name="listing10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter9_object_classes.latihan.listing10" />
       <module name="PemogramanDasarAbid" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter8_multidimensi.ujian.*" />
+          <option name="PATTERN" value="chapter9_object_classes.latihan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -186,12 +400,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ulang" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter8_multidimensi.ujian.ulang" />
+    <configuration name="listing1TestLoanClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter10_object_oriented.latihan.listing1TestLoanClass" />
       <module name="PemogramanDasarAbid" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter8_multidimensi.ujian.*" />
+          <option name="PATTERN" value="chapter10_object_oriented.latihan.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -214,11 +428,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ulang" />
-        <item itemvalue="Application.hjhj" />
-        <item itemvalue="Application.ujian1" />
-        <item itemvalue="Application.fg" />
-        <item itemvalue="Application.exercise16sorttwodimensionalarray" />
+        <item itemvalue="Application.listing1TestLoanClass" />
+        <item itemvalue="Application.listing10" />
+        <item itemvalue="Application.exercise3themyintegerclass" />
+        <item itemvalue="Application.exercise2theBMIclass" />
+        <item itemvalue="Application.exercise1thetimeclass" />
       </list>
     </recent_temporary>
   </component>
@@ -252,7 +466,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675403206712</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update chapter 7/8">
+      <created>1676621432045</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676621432045</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -269,6 +490,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Commit" />
     <MESSAGE value="update ujian" />
-    <option name="LAST_COMMIT_MESSAGE" value="update ujian" />
+    <MESSAGE value="update chapter 7/8" />
+    <option name="LAST_COMMIT_MESSAGE" value="update chapter 7/8" />
   </component>
 </project>
